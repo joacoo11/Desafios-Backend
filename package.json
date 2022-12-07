@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "desafios-backend",
+  "version": "1.0.0",
+  "main": "Desafio1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joacoo11/Desafios-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joacoo11/Desafios-Backend/issues"
+  },
+  "homepage": "https://github.com/joacoo11/Desafios-Backend#readme",
+  "description": ""
+}
